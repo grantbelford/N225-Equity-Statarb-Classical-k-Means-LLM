@@ -3,7 +3,7 @@ Overview:
 
 1. Using 589 days of daily N225 constituent equity closing price data, we compare statarb peformance between: 
 
-Strat 1. Statarb - Brute Force Method (ie. focus on Industry classification for pairs selection - Fig2 for info) vs.
+Strat 1. Statarb - Classical Method (ie. focus on Industry classification for pairs selection - Fig2 for info) vs.
 
 Strat 2. Statarb - k-Means Clustering (no pre-defined industry, sector or other restrictions - goal is for this approach to discover *non-intuitive* pairs with similar behaviour despite being from different industries)
 
